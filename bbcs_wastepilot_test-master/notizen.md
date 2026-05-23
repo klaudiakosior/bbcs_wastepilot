@@ -1,0 +1,3 @@
+- Stadtkreise-Grenzen API vorhanden?
+- ACHTUNG!: Stadt Zürich Events -> Veranstaltungsdaten fehlen -> syntetisch aufgebaut
+- evtl. Gewichtungen ändern

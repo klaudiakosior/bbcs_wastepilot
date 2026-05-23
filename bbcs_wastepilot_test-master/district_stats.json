@@ -1,0 +1,134 @@
+[
+  {
+    "stadtkreis": "Altstadt",
+    "anzeige": "Altstadt (Kr. 1)",
+    "durchschnitt_t": 1.0,
+    "heute_prognose_t": 2.15,
+    "trend_14tage_pct": 1.0,
+    "risikostufe": "hoch",
+    "anzeige_text": "Viel mehr als üblich",
+    "empfehlung": "Altstadt: Überkapazität – 1 Zusatzfahrzeug + Überladestation vorinformieren",
+    "luftqualitaet": "gut"
+  },
+  {
+    "stadtkreis": "Wollishofen",
+    "anzeige": "Wollishofen (Kr. 2)",
+    "durchschnitt_t": 3.76,
+    "heute_prognose_t": 3.41,
+    "trend_14tage_pct": 6.4,
+    "risikostufe": "normal",
+    "anzeige_text": "Wie erwartet",
+    "empfehlung": "Wollishofen: Montag nach Wochenende – leicht erhöht, Normalroute ausreichend",
+    "luftqualitaet": "gut"
+  },
+  {
+    "stadtkreis": "Wiedikon",
+    "anzeige": "Wiedikon (Kr. 3)",
+    "durchschnitt_t": 5.19,
+    "heute_prognose_t": 3.55,
+    "trend_14tage_pct": 2.0,
+    "risikostufe": "normal",
+    "anzeige_text": "Wie erwartet",
+    "empfehlung": "Wiedikon: Montag nach Wochenende – leicht erhöht, Normalroute ausreichend",
+    "luftqualitaet": "gut"
+  },
+  {
+    "stadtkreis": "Aussersihl",
+    "anzeige": "Aussersihl (Kr. 4)",
+    "durchschnitt_t": 3.21,
+    "heute_prognose_t": 3.09,
+    "trend_14tage_pct": 4.1,
+    "risikostufe": "normal",
+    "anzeige_text": "Wie erwartet",
+    "empfehlung": "Aussersihl: Montag nach Wochenende – leicht erhöht, Normalroute ausreichend",
+    "luftqualitaet": "gut"
+  },
+  {
+    "stadtkreis": "Escher Wyss",
+    "anzeige": "Escher Wyss (Kr. 5)",
+    "durchschnitt_t": 2.08,
+    "heute_prognose_t": 3.03,
+    "trend_14tage_pct": 3.8,
+    "risikostufe": "hoch",
+    "anzeige_text": "Viel mehr als üblich",
+    "empfehlung": "Escher Wyss: Überkapazität – 1 Zusatzfahrzeug + Überladestation vorinformieren",
+    "luftqualitaet": "gut"
+  },
+  {
+    "stadtkreis": "Unterstrass",
+    "anzeige": "Unterstrass (Kr. 6)",
+    "durchschnitt_t": 3.68,
+    "heute_prognose_t": 3.12,
+    "trend_14tage_pct": 6.4,
+    "risikostufe": "normal",
+    "anzeige_text": "Wie erwartet",
+    "empfehlung": "Unterstrass: Montag nach Wochenende – leicht erhöht, Normalroute ausreichend",
+    "luftqualitaet": "gut"
+  },
+  {
+    "stadtkreis": "Hottingen",
+    "anzeige": "Hottingen (Kr. 7)",
+    "durchschnitt_t": 4.02,
+    "heute_prognose_t": 3.17,
+    "trend_14tage_pct": 4.8,
+    "risikostufe": "normal",
+    "anzeige_text": "Wie erwartet",
+    "empfehlung": "Hottingen: Montag nach Wochenende – leicht erhöht, Normalroute ausreichend",
+    "luftqualitaet": "gut"
+  },
+  {
+    "stadtkreis": "Riesbach",
+    "anzeige": "Riesbach (Kr. 8)",
+    "durchschnitt_t": 2.37,
+    "heute_prognose_t": 3.17,
+    "trend_14tage_pct": 4.8,
+    "risikostufe": "hoch",
+    "anzeige_text": "Viel mehr als üblich",
+    "empfehlung": "Riesbach: Überkapazität – 1 Zusatzfahrzeug + Überladestation vorinformieren",
+    "luftqualitaet": "gut"
+  },
+  {
+    "stadtkreis": "Altstetten",
+    "anzeige": "Altstetten (Kr. 9)",
+    "durchschnitt_t": 6.16,
+    "heute_prognose_t": 5.0,
+    "trend_14tage_pct": 4.0,
+    "risikostufe": "normal",
+    "anzeige_text": "Wie erwartet",
+    "empfehlung": "Altstetten: Montag nach Wochenende – leicht erhöht, Normalroute ausreichend",
+    "luftqualitaet": "gut"
+  },
+  {
+    "stadtkreis": "Hoengg",
+    "anzeige": "Höngg (Kr. 10)",
+    "durchschnitt_t": 4.1,
+    "heute_prognose_t": 4.89,
+    "trend_14tage_pct": 3.3,
+    "risikostufe": "hoch",
+    "anzeige_text": "Viel mehr als üblich",
+    "empfehlung": "Hoengg: Überkapazität – 1 Zusatzfahrzeug + Überladestation vorinformieren",
+    "luftqualitaet": "gut"
+  },
+  {
+    "stadtkreis": "Oerlikon",
+    "anzeige": "Oerlikon (Kr. 11)",
+    "durchschnitt_t": 8.15,
+    "heute_prognose_t": 5.61,
+    "trend_14tage_pct": 8.1,
+    "risikostufe": "normal",
+    "anzeige_text": "Wie erwartet",
+    "empfehlung": "Oerlikon: Montag nach Wochenende – leicht erhöht, Normalroute ausreichend",
+    "luftqualitaet": "gut"
+  },
+  {
+    "stadtkreis": "Schwamendingen",
+    "anzeige": "Schwamendingen (Kr. 12)",
+    "durchschnitt_t": 3.32,
+    "heute_prognose_t": 4.11,
+    "trend_14tage_pct": 7.2,
+    "risikostufe": "hoch",
+    "anzeige_text": "Viel mehr als üblich",
+    "empfehlung": "Schwamendingen: Überkapazität – 1 Zusatzfahrzeug + Überladestation vorinformieren",
+    "luftqualitaet": "gut"
+  }
+]

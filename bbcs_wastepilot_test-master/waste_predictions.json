@@ -1,0 +1,919 @@
+[
+  {
+    "datum": "2026-05-18",
+    "wochentag": "Mo",
+    "wetter": {
+      "temperatur_c": 13.4,
+      "niederschlag_mm": 3.7,
+      "luftqualitaet": "gut"
+    },
+    "stadtkreise": [
+      {
+        "name": "Altstadt",
+        "anzeige": "Altstadt (Kr. 1)",
+        "prognose_t": 2.15,
+        "normalwert_t": 0.99,
+        "abweichung_pct": 116.8,
+        "risikostufe": "hoch",
+        "anzeige_text": "Viel mehr als üblich",
+        "empfehlung": "Altstadt: Überkapazität – 1 Zusatzfahrzeug + Überladestation vorinformieren"
+      },
+      {
+        "name": "Wollishofen",
+        "anzeige": "Wollishofen (Kr. 2)",
+        "prognose_t": 3.41,
+        "normalwert_t": 3.69,
+        "abweichung_pct": -7.5,
+        "risikostufe": "normal",
+        "anzeige_text": "Wie erwartet",
+        "empfehlung": "Wollishofen: Montag nach Wochenende – leicht erhöht, Normalroute ausreichend"
+      },
+      {
+        "name": "Wiedikon",
+        "anzeige": "Wiedikon (Kr. 3)",
+        "prognose_t": 3.55,
+        "normalwert_t": 5.14,
+        "abweichung_pct": -31.0,
+        "risikostufe": "normal",
+        "anzeige_text": "Wie erwartet",
+        "empfehlung": "Wiedikon: Montag nach Wochenende – leicht erhöht, Normalroute ausreichend"
+      },
+      {
+        "name": "Aussersihl",
+        "anzeige": "Aussersihl (Kr. 4)",
+        "prognose_t": 3.09,
+        "normalwert_t": 3.19,
+        "abweichung_pct": -3.0,
+        "risikostufe": "normal",
+        "anzeige_text": "Wie erwartet",
+        "empfehlung": "Aussersihl: Montag nach Wochenende – leicht erhöht, Normalroute ausreichend"
+      },
+      {
+        "name": "Escher Wyss",
+        "anzeige": "Escher Wyss (Kr. 5)",
+        "prognose_t": 3.03,
+        "normalwert_t": 2.05,
+        "abweichung_pct": 47.9,
+        "risikostufe": "hoch",
+        "anzeige_text": "Viel mehr als üblich",
+        "empfehlung": "Escher Wyss: Überkapazität – 1 Zusatzfahrzeug + Überladestation vorinformieren"
+      },
+      {
+        "name": "Unterstrass",
+        "anzeige": "Unterstrass (Kr. 6)",
+        "prognose_t": 3.12,
+        "normalwert_t": 3.62,
+        "abweichung_pct": -13.7,
+        "risikostufe": "normal",
+        "anzeige_text": "Wie erwartet",
+        "empfehlung": "Unterstrass: Montag nach Wochenende – leicht erhöht, Normalroute ausreichend"
+      },
+      {
+        "name": "Hottingen",
+        "anzeige": "Hottingen (Kr. 7)",
+        "prognose_t": 3.17,
+        "normalwert_t": 3.97,
+        "abweichung_pct": -20.1,
+        "risikostufe": "normal",
+        "anzeige_text": "Wie erwartet",
+        "empfehlung": "Hottingen: Montag nach Wochenende – leicht erhöht, Normalroute ausreichend"
+      },
+      {
+        "name": "Riesbach",
+        "anzeige": "Riesbach (Kr. 8)",
+        "prognose_t": 3.17,
+        "normalwert_t": 2.34,
+        "abweichung_pct": 35.3,
+        "risikostufe": "hoch",
+        "anzeige_text": "Viel mehr als üblich",
+        "empfehlung": "Riesbach: Überkapazität – 1 Zusatzfahrzeug + Überladestation vorinformieren"
+      },
+      {
+        "name": "Altstetten",
+        "anzeige": "Altstetten (Kr. 9)",
+        "prognose_t": 5.0,
+        "normalwert_t": 6.1,
+        "abweichung_pct": -18.0,
+        "risikostufe": "normal",
+        "anzeige_text": "Wie erwartet",
+        "empfehlung": "Altstetten: Montag nach Wochenende – leicht erhöht, Normalroute ausreichend"
+      },
+      {
+        "name": "Hoengg",
+        "anzeige": "Höngg (Kr. 10)",
+        "prognose_t": 4.89,
+        "normalwert_t": 4.06,
+        "abweichung_pct": 20.3,
+        "risikostufe": "hoch",
+        "anzeige_text": "Viel mehr als üblich",
+        "empfehlung": "Hoengg: Überkapazität – 1 Zusatzfahrzeug + Überladestation vorinformieren"
+      },
+      {
+        "name": "Oerlikon",
+        "anzeige": "Oerlikon (Kr. 11)",
+        "prognose_t": 5.61,
+        "normalwert_t": 8.02,
+        "abweichung_pct": -30.1,
+        "risikostufe": "normal",
+        "anzeige_text": "Wie erwartet",
+        "empfehlung": "Oerlikon: Montag nach Wochenende – leicht erhöht, Normalroute ausreichend"
+      },
+      {
+        "name": "Schwamendingen",
+        "anzeige": "Schwamendingen (Kr. 12)",
+        "prognose_t": 4.11,
+        "normalwert_t": 3.27,
+        "abweichung_pct": 25.8,
+        "risikostufe": "hoch",
+        "anzeige_text": "Viel mehr als üblich",
+        "empfehlung": "Schwamendingen: Überkapazität – 1 Zusatzfahrzeug + Überladestation vorinformieren"
+      }
+    ]
+  },
+  {
+    "datum": "2026-05-19",
+    "wochentag": "Di",
+    "wetter": {
+      "temperatur_c": 18.2,
+      "niederschlag_mm": 0.2,
+      "luftqualitaet": "gut"
+    },
+    "stadtkreise": [
+      {
+        "name": "Altstadt",
+        "anzeige": "Altstadt (Kr. 1)",
+        "prognose_t": 2.23,
+        "normalwert_t": 0.99,
+        "abweichung_pct": 124.8,
+        "risikostufe": "hoch",
+        "anzeige_text": "Viel mehr als üblich",
+        "empfehlung": "Altstadt: Überkapazität – 1 Zusatzfahrzeug + Überladestation vorinformieren"
+      },
+      {
+        "name": "Wollishofen",
+        "anzeige": "Wollishofen (Kr. 2)",
+        "prognose_t": 3.45,
+        "normalwert_t": 3.69,
+        "abweichung_pct": -6.4,
+        "risikostufe": "normal",
+        "anzeige_text": "Wie erwartet",
+        "empfehlung": "Wollishofen: Normalbetrieb – keine Anpassungen nötig"
+      },
+      {
+        "name": "Wiedikon",
+        "anzeige": "Wiedikon (Kr. 3)",
+        "prognose_t": 3.59,
+        "normalwert_t": 5.14,
+        "abweichung_pct": -30.2,
+        "risikostufe": "normal",
+        "anzeige_text": "Wie erwartet",
+        "empfehlung": "Wiedikon: Normalbetrieb – keine Anpassungen nötig"
+      },
+      {
+        "name": "Aussersihl",
+        "anzeige": "Aussersihl (Kr. 4)",
+        "prognose_t": 3.15,
+        "normalwert_t": 3.19,
+        "abweichung_pct": -1.1,
+        "risikostufe": "normal",
+        "anzeige_text": "Wie erwartet",
+        "empfehlung": "Aussersihl: Normalbetrieb – keine Anpassungen nötig"
+      },
+      {
+        "name": "Escher Wyss",
+        "anzeige": "Escher Wyss (Kr. 5)",
+        "prognose_t": 3.11,
+        "normalwert_t": 2.05,
+        "abweichung_pct": 51.8,
+        "risikostufe": "hoch",
+        "anzeige_text": "Viel mehr als üblich",
+        "empfehlung": "Escher Wyss: Überkapazität – 1 Zusatzfahrzeug + Überladestation vorinformieren"
+      },
+      {
+        "name": "Unterstrass",
+        "anzeige": "Unterstrass (Kr. 6)",
+        "prognose_t": 3.21,
+        "normalwert_t": 3.62,
+        "abweichung_pct": -11.2,
+        "risikostufe": "normal",
+        "anzeige_text": "Wie erwartet",
+        "empfehlung": "Unterstrass: Normalbetrieb – keine Anpassungen nötig"
+      },
+      {
+        "name": "Hottingen",
+        "anzeige": "Hottingen (Kr. 7)",
+        "prognose_t": 3.28,
+        "normalwert_t": 3.97,
+        "abweichung_pct": -17.4,
+        "risikostufe": "normal",
+        "anzeige_text": "Wie erwartet",
+        "empfehlung": "Hottingen: Normalbetrieb – keine Anpassungen nötig"
+      },
+      {
+        "name": "Riesbach",
+        "anzeige": "Riesbach (Kr. 8)",
+        "prognose_t": 3.26,
+        "normalwert_t": 2.34,
+        "abweichung_pct": 39.2,
+        "risikostufe": "hoch",
+        "anzeige_text": "Viel mehr als üblich",
+        "empfehlung": "Riesbach: Überkapazität – 1 Zusatzfahrzeug + Überladestation vorinformieren"
+      },
+      {
+        "name": "Altstetten",
+        "anzeige": "Altstetten (Kr. 9)",
+        "prognose_t": 5.13,
+        "normalwert_t": 6.1,
+        "abweichung_pct": -15.9,
+        "risikostufe": "normal",
+        "anzeige_text": "Wie erwartet",
+        "empfehlung": "Altstetten: Normalbetrieb – keine Anpassungen nötig"
+      },
+      {
+        "name": "Hoengg",
+        "anzeige": "Höngg (Kr. 10)",
+        "prognose_t": 4.98,
+        "normalwert_t": 4.06,
+        "abweichung_pct": 22.5,
+        "risikostufe": "hoch",
+        "anzeige_text": "Viel mehr als üblich",
+        "empfehlung": "Hoengg: Überkapazität – 1 Zusatzfahrzeug + Überladestation vorinformieren"
+      },
+      {
+        "name": "Oerlikon",
+        "anzeige": "Oerlikon (Kr. 11)",
+        "prognose_t": 5.71,
+        "normalwert_t": 8.02,
+        "abweichung_pct": -28.8,
+        "risikostufe": "normal",
+        "anzeige_text": "Wie erwartet",
+        "empfehlung": "Oerlikon: Normalbetrieb – keine Anpassungen nötig"
+      },
+      {
+        "name": "Schwamendingen",
+        "anzeige": "Schwamendingen (Kr. 12)",
+        "prognose_t": 4.23,
+        "normalwert_t": 3.27,
+        "abweichung_pct": 29.5,
+        "risikostufe": "hoch",
+        "anzeige_text": "Viel mehr als üblich",
+        "empfehlung": "Schwamendingen: Überkapazität – 1 Zusatzfahrzeug + Überladestation vorinformieren"
+      }
+    ]
+  },
+  {
+    "datum": "2026-05-20",
+    "wochentag": "Mi",
+    "wetter": {
+      "temperatur_c": 17.9,
+      "niederschlag_mm": 2.7,
+      "luftqualitaet": "gut"
+    },
+    "stadtkreise": [
+      {
+        "name": "Altstadt",
+        "anzeige": "Altstadt (Kr. 1)",
+        "prognose_t": 2.14,
+        "normalwert_t": 0.99,
+        "abweichung_pct": 115.7,
+        "risikostufe": "hoch",
+        "anzeige_text": "Viel mehr als üblich",
+        "empfehlung": "Altstadt: Überkapazität – 1 Zusatzfahrzeug + Überladestation vorinformieren"
+      },
+      {
+        "name": "Wollishofen",
+        "anzeige": "Wollishofen (Kr. 2)",
+        "prognose_t": 3.45,
+        "normalwert_t": 3.69,
+        "abweichung_pct": -6.4,
+        "risikostufe": "normal",
+        "anzeige_text": "Wie erwartet",
+        "empfehlung": "Wollishofen: Normalbetrieb – keine Anpassungen nötig"
+      },
+      {
+        "name": "Wiedikon",
+        "anzeige": "Wiedikon (Kr. 3)",
+        "prognose_t": 3.59,
+        "normalwert_t": 5.14,
+        "abweichung_pct": -30.2,
+        "risikostufe": "normal",
+        "anzeige_text": "Wie erwartet",
+        "empfehlung": "Wiedikon: Normalbetrieb – keine Anpassungen nötig"
+      },
+      {
+        "name": "Aussersihl",
+        "anzeige": "Aussersihl (Kr. 4)",
+        "prognose_t": 3.12,
+        "normalwert_t": 3.19,
+        "abweichung_pct": -2.1,
+        "risikostufe": "normal",
+        "anzeige_text": "Wie erwartet",
+        "empfehlung": "Aussersihl: Normalbetrieb – keine Anpassungen nötig"
+      },
+      {
+        "name": "Escher Wyss",
+        "anzeige": "Escher Wyss (Kr. 5)",
+        "prognose_t": 3.08,
+        "normalwert_t": 2.05,
+        "abweichung_pct": 50.4,
+        "risikostufe": "hoch",
+        "anzeige_text": "Viel mehr als üblich",
+        "empfehlung": "Escher Wyss: Überkapazität – 1 Zusatzfahrzeug + Überladestation vorinformieren"
+      },
+      {
+        "name": "Unterstrass",
+        "anzeige": "Unterstrass (Kr. 6)",
+        "prognose_t": 3.18,
+        "normalwert_t": 3.62,
+        "abweichung_pct": -12.0,
+        "risikostufe": "normal",
+        "anzeige_text": "Wie erwartet",
+        "empfehlung": "Unterstrass: Normalbetrieb – keine Anpassungen nötig"
+      },
+      {
+        "name": "Hottingen",
+        "anzeige": "Hottingen (Kr. 7)",
+        "prognose_t": 3.25,
+        "normalwert_t": 3.97,
+        "abweichung_pct": -18.1,
+        "risikostufe": "normal",
+        "anzeige_text": "Wie erwartet",
+        "empfehlung": "Hottingen: Normalbetrieb – keine Anpassungen nötig"
+      },
+      {
+        "name": "Riesbach",
+        "anzeige": "Riesbach (Kr. 8)",
+        "prognose_t": 3.24,
+        "normalwert_t": 2.34,
+        "abweichung_pct": 38.3,
+        "risikostufe": "hoch",
+        "anzeige_text": "Viel mehr als üblich",
+        "empfehlung": "Riesbach: Überkapazität – 1 Zusatzfahrzeug + Überladestation vorinformieren"
+      },
+      {
+        "name": "Altstetten",
+        "anzeige": "Altstetten (Kr. 9)",
+        "prognose_t": 5.06,
+        "normalwert_t": 6.1,
+        "abweichung_pct": -17.1,
+        "risikostufe": "normal",
+        "anzeige_text": "Wie erwartet",
+        "empfehlung": "Altstetten: Normalbetrieb – keine Anpassungen nötig"
+      },
+      {
+        "name": "Hoengg",
+        "anzeige": "Höngg (Kr. 10)",
+        "prognose_t": 4.91,
+        "normalwert_t": 4.06,
+        "abweichung_pct": 20.8,
+        "risikostufe": "hoch",
+        "anzeige_text": "Viel mehr als üblich",
+        "empfehlung": "Hoengg: Überkapazität – 1 Zusatzfahrzeug + Überladestation vorinformieren"
+      },
+      {
+        "name": "Oerlikon",
+        "anzeige": "Oerlikon (Kr. 11)",
+        "prognose_t": 5.63,
+        "normalwert_t": 8.02,
+        "abweichung_pct": -29.8,
+        "risikostufe": "normal",
+        "anzeige_text": "Wie erwartet",
+        "empfehlung": "Oerlikon: Normalbetrieb – keine Anpassungen nötig"
+      },
+      {
+        "name": "Schwamendingen",
+        "anzeige": "Schwamendingen (Kr. 12)",
+        "prognose_t": 4.2,
+        "normalwert_t": 3.27,
+        "abweichung_pct": 28.6,
+        "risikostufe": "hoch",
+        "anzeige_text": "Viel mehr als üblich",
+        "empfehlung": "Schwamendingen: Überkapazität – 1 Zusatzfahrzeug + Überladestation vorinformieren"
+      }
+    ]
+  },
+  {
+    "datum": "2026-05-21",
+    "wochentag": "Do",
+    "wetter": {
+      "temperatur_c": 23.2,
+      "niederschlag_mm": 0.0,
+      "luftqualitaet": "gut"
+    },
+    "stadtkreise": [
+      {
+        "name": "Altstadt",
+        "anzeige": "Altstadt (Kr. 1)",
+        "prognose_t": 3.13,
+        "normalwert_t": 0.99,
+        "abweichung_pct": 215.6,
+        "risikostufe": "hoch",
+        "anzeige_text": "Viel mehr als üblich",
+        "empfehlung": "Altstadt: Überkapazität – 1 Zusatzfahrzeug + Überladestation vorinformieren"
+      },
+      {
+        "name": "Wollishofen",
+        "anzeige": "Wollishofen (Kr. 2)",
+        "prognose_t": 3.96,
+        "normalwert_t": 3.69,
+        "abweichung_pct": 7.4,
+        "risikostufe": "mittel",
+        "anzeige_text": "Etwas mehr als üblich",
+        "empfehlung": "Wollishofen: Erhöhtes Aufkommen – Frühstart 06:00 Uhr empfohlen"
+      },
+      {
+        "name": "Wiedikon",
+        "anzeige": "Wiedikon (Kr. 3)",
+        "prognose_t": 4.06,
+        "normalwert_t": 5.14,
+        "abweichung_pct": -21.0,
+        "risikostufe": "normal",
+        "anzeige_text": "Wie erwartet",
+        "empfehlung": "Wiedikon: Normalbetrieb – keine Anpassungen nötig"
+      },
+      {
+        "name": "Aussersihl",
+        "anzeige": "Aussersihl (Kr. 4)",
+        "prognose_t": 3.81,
+        "normalwert_t": 3.19,
+        "abweichung_pct": 19.6,
+        "risikostufe": "hoch",
+        "anzeige_text": "Viel mehr als üblich",
+        "empfehlung": "Aussersihl: Überkapazität – 1 Zusatzfahrzeug + Überladestation vorinformieren"
+      },
+      {
+        "name": "Escher Wyss",
+        "anzeige": "Escher Wyss (Kr. 5)",
+        "prognose_t": 3.76,
+        "normalwert_t": 2.05,
+        "abweichung_pct": 83.6,
+        "risikostufe": "hoch",
+        "anzeige_text": "Viel mehr als üblich",
+        "empfehlung": "Escher Wyss: Überkapazität – 1 Zusatzfahrzeug + Überladestation vorinformieren"
+      },
+      {
+        "name": "Unterstrass",
+        "anzeige": "Unterstrass (Kr. 6)",
+        "prognose_t": 3.85,
+        "normalwert_t": 3.62,
+        "abweichung_pct": 6.5,
+        "risikostufe": "mittel",
+        "anzeige_text": "Etwas mehr als üblich",
+        "empfehlung": "Unterstrass: Erhöhtes Aufkommen – Frühstart 06:00 Uhr empfohlen"
+      },
+      {
+        "name": "Hottingen",
+        "anzeige": "Hottingen (Kr. 7)",
+        "prognose_t": 3.89,
+        "normalwert_t": 3.97,
+        "abweichung_pct": -2.0,
+        "risikostufe": "normal",
+        "anzeige_text": "Wie erwartet",
+        "empfehlung": "Hottingen: Normalbetrieb – keine Anpassungen nötig"
+      },
+      {
+        "name": "Riesbach",
+        "anzeige": "Riesbach (Kr. 8)",
+        "prognose_t": 3.95,
+        "normalwert_t": 2.34,
+        "abweichung_pct": 68.6,
+        "risikostufe": "hoch",
+        "anzeige_text": "Viel mehr als üblich",
+        "empfehlung": "Riesbach: Überkapazität – 1 Zusatzfahrzeug + Überladestation vorinformieren"
+      },
+      {
+        "name": "Altstetten",
+        "anzeige": "Altstetten (Kr. 9)",
+        "prognose_t": 5.72,
+        "normalwert_t": 6.1,
+        "abweichung_pct": -6.2,
+        "risikostufe": "normal",
+        "anzeige_text": "Wie erwartet",
+        "empfehlung": "Altstetten: Normalbetrieb – keine Anpassungen nötig"
+      },
+      {
+        "name": "Hoengg",
+        "anzeige": "Höngg (Kr. 10)",
+        "prognose_t": 5.65,
+        "normalwert_t": 4.06,
+        "abweichung_pct": 39.0,
+        "risikostufe": "hoch",
+        "anzeige_text": "Viel mehr als üblich",
+        "empfehlung": "Hoengg: Überkapazität – 1 Zusatzfahrzeug + Überladestation vorinformieren"
+      },
+      {
+        "name": "Oerlikon",
+        "anzeige": "Oerlikon (Kr. 11)",
+        "prognose_t": 6.17,
+        "normalwert_t": 8.02,
+        "abweichung_pct": -23.1,
+        "risikostufe": "normal",
+        "anzeige_text": "Wie erwartet",
+        "empfehlung": "Oerlikon: Normalbetrieb – keine Anpassungen nötig"
+      },
+      {
+        "name": "Schwamendingen",
+        "anzeige": "Schwamendingen (Kr. 12)",
+        "prognose_t": 5.18,
+        "normalwert_t": 3.27,
+        "abweichung_pct": 58.6,
+        "risikostufe": "hoch",
+        "anzeige_text": "Viel mehr als üblich",
+        "empfehlung": "Schwamendingen: Überkapazität – 1 Zusatzfahrzeug + Überladestation vorinformieren"
+      }
+    ]
+  },
+  {
+    "datum": "2026-05-22",
+    "wochentag": "Fr",
+    "wetter": {
+      "temperatur_c": 26.0,
+      "niederschlag_mm": 0.0,
+      "luftqualitaet": "gut"
+    },
+    "stadtkreise": [
+      {
+        "name": "Altstadt",
+        "anzeige": "Altstadt (Kr. 1)",
+        "prognose_t": 2.98,
+        "normalwert_t": 0.99,
+        "abweichung_pct": 200.4,
+        "risikostufe": "hoch",
+        "anzeige_text": "Viel mehr als üblich",
+        "empfehlung": "Altstadt: Hitzebetrieb – Frühschicht 05:30 Uhr, 1 Zusatzfahrzeug"
+      },
+      {
+        "name": "Wollishofen",
+        "anzeige": "Wollishofen (Kr. 2)",
+        "prognose_t": 4.03,
+        "normalwert_t": 3.69,
+        "abweichung_pct": 9.3,
+        "risikostufe": "mittel",
+        "anzeige_text": "Etwas mehr als üblich",
+        "empfehlung": "Wollishofen: Freitagseffekt – Wohngebiete ab 14:00 Uhr verstärkt anfahren"
+      },
+      {
+        "name": "Wiedikon",
+        "anzeige": "Wiedikon (Kr. 3)",
+        "prognose_t": 4.14,
+        "normalwert_t": 5.14,
+        "abweichung_pct": -19.5,
+        "risikostufe": "normal",
+        "anzeige_text": "Wie erwartet",
+        "empfehlung": "Wiedikon: Normalbetrieb – keine Anpassungen nötig"
+      },
+      {
+        "name": "Aussersihl",
+        "anzeige": "Aussersihl (Kr. 4)",
+        "prognose_t": 3.79,
+        "normalwert_t": 3.19,
+        "abweichung_pct": 18.9,
+        "risikostufe": "hoch",
+        "anzeige_text": "Viel mehr als üblich",
+        "empfehlung": "Aussersihl: Hitzebetrieb – Frühschicht 05:30 Uhr, 1 Zusatzfahrzeug"
+      },
+      {
+        "name": "Escher Wyss",
+        "anzeige": "Escher Wyss (Kr. 5)",
+        "prognose_t": 3.71,
+        "normalwert_t": 2.05,
+        "abweichung_pct": 81.1,
+        "risikostufe": "hoch",
+        "anzeige_text": "Viel mehr als üblich",
+        "empfehlung": "Escher Wyss: Hitzebetrieb – Frühschicht 05:30 Uhr, 1 Zusatzfahrzeug"
+      },
+      {
+        "name": "Unterstrass",
+        "anzeige": "Unterstrass (Kr. 6)",
+        "prognose_t": 3.8,
+        "normalwert_t": 3.62,
+        "abweichung_pct": 5.1,
+        "risikostufe": "mittel",
+        "anzeige_text": "Etwas mehr als üblich",
+        "empfehlung": "Unterstrass: Freitagseffekt – Wohngebiete ab 14:00 Uhr verstärkt anfahren"
+      },
+      {
+        "name": "Hottingen",
+        "anzeige": "Hottingen (Kr. 7)",
+        "prognose_t": 3.83,
+        "normalwert_t": 3.97,
+        "abweichung_pct": -3.5,
+        "risikostufe": "normal",
+        "anzeige_text": "Wie erwartet",
+        "empfehlung": "Hottingen: Normalbetrieb – keine Anpassungen nötig"
+      },
+      {
+        "name": "Riesbach",
+        "anzeige": "Riesbach (Kr. 8)",
+        "prognose_t": 3.85,
+        "normalwert_t": 2.34,
+        "abweichung_pct": 64.4,
+        "risikostufe": "hoch",
+        "anzeige_text": "Viel mehr als üblich",
+        "empfehlung": "Riesbach: Hitzebetrieb – Frühschicht 05:30 Uhr, 1 Zusatzfahrzeug"
+      },
+      {
+        "name": "Altstetten",
+        "anzeige": "Altstetten (Kr. 9)",
+        "prognose_t": 5.8,
+        "normalwert_t": 6.1,
+        "abweichung_pct": -4.9,
+        "risikostufe": "normal",
+        "anzeige_text": "Wie erwartet",
+        "empfehlung": "Altstetten: Normalbetrieb – keine Anpassungen nötig"
+      },
+      {
+        "name": "Hoengg",
+        "anzeige": "Höngg (Kr. 10)",
+        "prognose_t": 5.73,
+        "normalwert_t": 4.06,
+        "abweichung_pct": 41.0,
+        "risikostufe": "hoch",
+        "anzeige_text": "Viel mehr als üblich",
+        "empfehlung": "Hoengg: Hitzebetrieb – Frühschicht 05:30 Uhr, 1 Zusatzfahrzeug"
+      },
+      {
+        "name": "Oerlikon",
+        "anzeige": "Oerlikon (Kr. 11)",
+        "prognose_t": 6.24,
+        "normalwert_t": 8.02,
+        "abweichung_pct": -22.2,
+        "risikostufe": "normal",
+        "anzeige_text": "Wie erwartet",
+        "empfehlung": "Oerlikon: Normalbetrieb – keine Anpassungen nötig"
+      },
+      {
+        "name": "Schwamendingen",
+        "anzeige": "Schwamendingen (Kr. 12)",
+        "prognose_t": 5.15,
+        "normalwert_t": 3.27,
+        "abweichung_pct": 57.6,
+        "risikostufe": "hoch",
+        "anzeige_text": "Viel mehr als üblich",
+        "empfehlung": "Schwamendingen: Hitzebetrieb – Frühschicht 05:30 Uhr, 1 Zusatzfahrzeug"
+      }
+    ]
+  },
+  {
+    "datum": "2026-05-23",
+    "wochentag": "Sa",
+    "wetter": {
+      "temperatur_c": 27.6,
+      "niederschlag_mm": 0.0,
+      "luftqualitaet": "gut"
+    },
+    "stadtkreise": [
+      {
+        "name": "Altstadt",
+        "anzeige": "Altstadt (Kr. 1)",
+        "prognose_t": 3.74,
+        "normalwert_t": 0.99,
+        "abweichung_pct": 277.1,
+        "risikostufe": "hoch",
+        "anzeige_text": "Viel mehr als üblich",
+        "empfehlung": "Altstadt: Hitzebetrieb – Frühschicht 05:30 Uhr, 1 Zusatzfahrzeug"
+      },
+      {
+        "name": "Wollishofen",
+        "anzeige": "Wollishofen (Kr. 2)",
+        "prognose_t": 4.7,
+        "normalwert_t": 3.69,
+        "abweichung_pct": 27.5,
+        "risikostufe": "hoch",
+        "anzeige_text": "Viel mehr als üblich",
+        "empfehlung": "Wollishofen: Hitzebetrieb – Frühschicht 05:30 Uhr, 1 Zusatzfahrzeug"
+      },
+      {
+        "name": "Wiedikon",
+        "anzeige": "Wiedikon (Kr. 3)",
+        "prognose_t": 4.78,
+        "normalwert_t": 5.14,
+        "abweichung_pct": -7.0,
+        "risikostufe": "normal",
+        "anzeige_text": "Wie erwartet",
+        "empfehlung": "Wiedikon: Normalbetrieb – keine Anpassungen nötig"
+      },
+      {
+        "name": "Aussersihl",
+        "anzeige": "Aussersihl (Kr. 4)",
+        "prognose_t": 4.47,
+        "normalwert_t": 3.19,
+        "abweichung_pct": 40.3,
+        "risikostufe": "hoch",
+        "anzeige_text": "Viel mehr als üblich",
+        "empfehlung": "Aussersihl: Hitzebetrieb – Frühschicht 05:30 Uhr, 1 Zusatzfahrzeug"
+      },
+      {
+        "name": "Escher Wyss",
+        "anzeige": "Escher Wyss (Kr. 5)",
+        "prognose_t": 4.39,
+        "normalwert_t": 2.05,
+        "abweichung_pct": 114.3,
+        "risikostufe": "hoch",
+        "anzeige_text": "Viel mehr als üblich",
+        "empfehlung": "Escher Wyss: Hitzebetrieb – Frühschicht 05:30 Uhr, 1 Zusatzfahrzeug"
+      },
+      {
+        "name": "Unterstrass",
+        "anzeige": "Unterstrass (Kr. 6)",
+        "prognose_t": 4.49,
+        "normalwert_t": 3.62,
+        "abweichung_pct": 24.2,
+        "risikostufe": "hoch",
+        "anzeige_text": "Viel mehr als üblich",
+        "empfehlung": "Unterstrass: Hitzebetrieb – Frühschicht 05:30 Uhr, 1 Zusatzfahrzeug"
+      },
+      {
+        "name": "Hottingen",
+        "anzeige": "Hottingen (Kr. 7)",
+        "prognose_t": 4.55,
+        "normalwert_t": 3.97,
+        "abweichung_pct": 14.6,
+        "risikostufe": "mittel",
+        "anzeige_text": "Etwas mehr als üblich",
+        "empfehlung": "Hottingen: Erhöhtes Aufkommen – Frühstart 06:00 Uhr empfohlen"
+      },
+      {
+        "name": "Riesbach",
+        "anzeige": "Riesbach (Kr. 8)",
+        "prognose_t": 4.54,
+        "normalwert_t": 2.34,
+        "abweichung_pct": 93.8,
+        "risikostufe": "hoch",
+        "anzeige_text": "Viel mehr als üblich",
+        "empfehlung": "Riesbach: Hitzebetrieb – Frühschicht 05:30 Uhr, 1 Zusatzfahrzeug"
+      },
+      {
+        "name": "Altstetten",
+        "anzeige": "Altstetten (Kr. 9)",
+        "prognose_t": 6.31,
+        "normalwert_t": 6.1,
+        "abweichung_pct": 3.4,
+        "risikostufe": "normal",
+        "anzeige_text": "Wie erwartet",
+        "empfehlung": "Altstetten: Normalbetrieb – keine Anpassungen nötig"
+      },
+      {
+        "name": "Hoengg",
+        "anzeige": "Höngg (Kr. 10)",
+        "prognose_t": 6.26,
+        "normalwert_t": 4.06,
+        "abweichung_pct": 54.0,
+        "risikostufe": "hoch",
+        "anzeige_text": "Viel mehr als üblich",
+        "empfehlung": "Hoengg: Hitzebetrieb – Frühschicht 05:30 Uhr, 1 Zusatzfahrzeug"
+      },
+      {
+        "name": "Oerlikon",
+        "anzeige": "Oerlikon (Kr. 11)",
+        "prognose_t": 6.78,
+        "normalwert_t": 8.02,
+        "abweichung_pct": -15.5,
+        "risikostufe": "normal",
+        "anzeige_text": "Wie erwartet",
+        "empfehlung": "Oerlikon: Normalbetrieb – keine Anpassungen nötig"
+      },
+      {
+        "name": "Schwamendingen",
+        "anzeige": "Schwamendingen (Kr. 12)",
+        "prognose_t": 5.79,
+        "normalwert_t": 3.27,
+        "abweichung_pct": 77.2,
+        "risikostufe": "hoch",
+        "anzeige_text": "Viel mehr als üblich",
+        "empfehlung": "Schwamendingen: Hitzebetrieb – Frühschicht 05:30 Uhr, 1 Zusatzfahrzeug"
+      }
+    ]
+  },
+  {
+    "datum": "2026-05-24",
+    "wochentag": "So",
+    "wetter": {
+      "temperatur_c": 27.7,
+      "niederschlag_mm": 3.6,
+      "luftqualitaet": "gut"
+    },
+    "stadtkreise": [
+      {
+        "name": "Altstadt",
+        "anzeige": "Altstadt (Kr. 1)",
+        "prognose_t": 3.31,
+        "normalwert_t": 0.99,
+        "abweichung_pct": 233.7,
+        "risikostufe": "hoch",
+        "anzeige_text": "Viel mehr als üblich",
+        "empfehlung": "Altstadt: Hitzebetrieb – Frühschicht 05:30 Uhr, 1 Zusatzfahrzeug"
+      },
+      {
+        "name": "Wollishofen",
+        "anzeige": "Wollishofen (Kr. 2)",
+        "prognose_t": 4.34,
+        "normalwert_t": 3.69,
+        "abweichung_pct": 17.7,
+        "risikostufe": "hoch",
+        "anzeige_text": "Viel mehr als üblich",
+        "empfehlung": "Wollishofen: Hitzebetrieb – Frühschicht 05:30 Uhr, 1 Zusatzfahrzeug"
+      },
+      {
+        "name": "Wiedikon",
+        "anzeige": "Wiedikon (Kr. 3)",
+        "prognose_t": 4.42,
+        "normalwert_t": 5.14,
+        "abweichung_pct": -14.0,
+        "risikostufe": "normal",
+        "anzeige_text": "Wie erwartet",
+        "empfehlung": "Wiedikon: Normalbetrieb – keine Anpassungen nötig"
+      },
+      {
+        "name": "Aussersihl",
+        "anzeige": "Aussersihl (Kr. 4)",
+        "prognose_t": 4.11,
+        "normalwert_t": 3.19,
+        "abweichung_pct": 29.0,
+        "risikostufe": "hoch",
+        "anzeige_text": "Viel mehr als üblich",
+        "empfehlung": "Aussersihl: Hitzebetrieb – Frühschicht 05:30 Uhr, 1 Zusatzfahrzeug"
+      },
+      {
+        "name": "Escher Wyss",
+        "anzeige": "Escher Wyss (Kr. 5)",
+        "prognose_t": 4.01,
+        "normalwert_t": 2.05,
+        "abweichung_pct": 95.8,
+        "risikostufe": "hoch",
+        "anzeige_text": "Viel mehr als üblich",
+        "empfehlung": "Escher Wyss: Hitzebetrieb – Frühschicht 05:30 Uhr, 1 Zusatzfahrzeug"
+      },
+      {
+        "name": "Unterstrass",
+        "anzeige": "Unterstrass (Kr. 6)",
+        "prognose_t": 4.14,
+        "normalwert_t": 3.62,
+        "abweichung_pct": 14.5,
+        "risikostufe": "mittel",
+        "anzeige_text": "Etwas mehr als üblich",
+        "empfehlung": "Unterstrass: Erhöhtes Aufkommen – Frühstart 06:00 Uhr empfohlen"
+      },
+      {
+        "name": "Hottingen",
+        "anzeige": "Hottingen (Kr. 7)",
+        "prognose_t": 4.2,
+        "normalwert_t": 3.97,
+        "abweichung_pct": 5.8,
+        "risikostufe": "mittel",
+        "anzeige_text": "Etwas mehr als üblich",
+        "empfehlung": "Hottingen: Erhöhtes Aufkommen – Frühstart 06:00 Uhr empfohlen"
+      },
+      {
+        "name": "Riesbach",
+        "anzeige": "Riesbach (Kr. 8)",
+        "prognose_t": 4.16,
+        "normalwert_t": 2.34,
+        "abweichung_pct": 77.6,
+        "risikostufe": "hoch",
+        "anzeige_text": "Viel mehr als üblich",
+        "empfehlung": "Riesbach: Hitzebetrieb – Frühschicht 05:30 Uhr, 1 Zusatzfahrzeug"
+      },
+      {
+        "name": "Altstetten",
+        "anzeige": "Altstetten (Kr. 9)",
+        "prognose_t": 6.09,
+        "normalwert_t": 6.1,
+        "abweichung_pct": -0.2,
+        "risikostufe": "normal",
+        "anzeige_text": "Wie erwartet",
+        "empfehlung": "Altstetten: Normalbetrieb – keine Anpassungen nötig"
+      },
+      {
+        "name": "Hoengg",
+        "anzeige": "Höngg (Kr. 10)",
+        "prognose_t": 6.0,
+        "normalwert_t": 4.06,
+        "abweichung_pct": 47.6,
+        "risikostufe": "hoch",
+        "anzeige_text": "Viel mehr als üblich",
+        "empfehlung": "Hoengg: Hitzebetrieb – Frühschicht 05:30 Uhr, 1 Zusatzfahrzeug"
+      },
+      {
+        "name": "Oerlikon",
+        "anzeige": "Oerlikon (Kr. 11)",
+        "prognose_t": 6.5,
+        "normalwert_t": 8.02,
+        "abweichung_pct": -19.0,
+        "risikostufe": "normal",
+        "anzeige_text": "Wie erwartet",
+        "empfehlung": "Oerlikon: Normalbetrieb – keine Anpassungen nötig"
+      },
+      {
+        "name": "Schwamendingen",
+        "anzeige": "Schwamendingen (Kr. 12)",
+        "prognose_t": 5.42,
+        "normalwert_t": 3.27,
+        "abweichung_pct": 65.9,
+        "risikostufe": "hoch",
+        "anzeige_text": "Viel mehr als üblich",
+        "empfehlung": "Schwamendingen: Hitzebetrieb – Frühschicht 05:30 Uhr, 1 Zusatzfahrzeug"
+      }
+    ]
+  }
+]
